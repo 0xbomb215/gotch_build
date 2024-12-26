@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c0a9d93.css",
-    "main.js": "/static/js/main.ae69fee2.js",
+    "main.css": "/static/css/main.4a94c07c.css",
+    "main.js": "/static/js/main.794de3cf.js",
     "static/js/7055.43c38f80.chunk.js": "/static/js/7055.43c38f80.chunk.js",
     "static/js/6467.d945c999.chunk.js": "/static/js/6467.d945c999.chunk.js",
     "static/js/3213.8d7eabcc.chunk.js": "/static/js/3213.8d7eabcc.chunk.js",
@@ -65,10 +65,12 @@
     "static/media/home-bg.png": "/static/media/home-bg.5f4256820cec259e83bf.png",
     "static/media/game-bg.png": "/static/media/game-bg.adede8db481902b31148.png",
     "static/media/home-bg-mobile.png": "/static/media/home-bg-mobile.2ae6161a7c78097ff576.png",
-    "static/media/game-right.png": "/static/media/game-right.8864dbaa6fe79cf27fcb.png",
-    "static/media/game-left.png": "/static/media/game-left.9b3cee7144cada99ecf8.png",
     "static/media/PressStart2P-Regular.ttf": "/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
+    "static/media/game-left.png": "/static/media/game-left.811e5a3e0e3fdfacb7fa.png",
     "static/media/Manrope-Regular.ttf": "/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
+    "static/media/help-right.png": "/static/media/help-right.aa6fbe421253e9fb3353.png",
+    "static/media/help-left.png": "/static/media/help-left.54a05bcec5fdc2111094.png",
+    "static/media/game-right.png": "/static/media/game-right.b99b2dbdf4dcede393a3.png",
     "static/media/SAKURATA.ttf": "/static/media/SAKURATA.83829d804cf9d20d6551.ttf",
     "static/media/Mohave-Bold.ttf": "/static/media/Mohave-Bold.89717f61562cbfa9f9e0.ttf",
     "static/media/X-Logo.svg": "/static/media/X-Logo.7a2d05cb68ce19c7f26b0e8642053748.svg",
@@ -78,8 +80,8 @@
     "static/media/Card.svg": "/static/media/Card.222f2fa2a2b84c37ceee.svg",
     "static/media/close.svg": "/static/media/close.1af6791baa0124e814df10c07a2e72cc.svg",
     "index.html": "/index.html",
-    "main.6c0a9d93.css.map": "/static/css/main.6c0a9d93.css.map",
-    "main.ae69fee2.js.map": "/static/js/main.ae69fee2.js.map",
+    "main.4a94c07c.css.map": "/static/css/main.4a94c07c.css.map",
+    "main.794de3cf.js.map": "/static/js/main.794de3cf.js.map",
     "7055.43c38f80.chunk.js.map": "/static/js/7055.43c38f80.chunk.js.map",
     "6467.d945c999.chunk.js.map": "/static/js/6467.d945c999.chunk.js.map",
     "8404.8782da0a.chunk.js.map": "/static/js/8404.8782da0a.chunk.js.map",
@@ -139,7 +141,7 @@
     "1444.4ae1ff37.chunk.js.map": "/static/js/1444.4ae1ff37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c0a9d93.css",
-    "static/js/main.ae69fee2.js"
+    "static/css/main.4a94c07c.css",
+    "static/js/main.794de3cf.js"
   ]
 }
