@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.964a58dc.css",
-    "main.js": "/static/js/main.bf22ee36.js",
+    "main.css": "/static/css/main.7565a7c1.css",
+    "main.js": "/static/js/main.9b7a6c3e.js",
     "static/js/6825.3a22b70a.chunk.js": "/static/js/6825.3a22b70a.chunk.js",
     "static/js/7030.4dd7428b.chunk.js": "/static/js/7030.4dd7428b.chunk.js",
     "static/js/3772.dca73cbe.chunk.js": "/static/js/3772.dca73cbe.chunk.js",
@@ -63,8 +63,21 @@
     "static/js/2267.b61f5e5e.chunk.js": "/static/js/2267.b61f5e5e.chunk.js",
     "static/js/5934.99a20c61.chunk.js": "/static/js/5934.99a20c61.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.5f4256820cec259e83bf.png",
+    "static/media/home-bg-mobile.png": "/static/media/home-bg-mobile.75d603a75a34f08c0574.png",
+    "static/media/12.png": "/static/media/12.44dad2d5eac0cc533c8b.png",
+    "static/media/1.png": "/static/media/1.61db3391de899c21b9c9.png",
+    "static/media/2.png": "/static/media/2.0bb33c16a175dd789ec5.png",
+    "static/media/7.png": "/static/media/7.5bad7cf76323aafb113b.png",
+    "static/media/6.png": "/static/media/6.68f5eae9ef89697218ea.png",
+    "static/media/9.png": "/static/media/9.05dc78d73758fceca2e2.png",
+    "static/media/4.png": "/static/media/4.dd8a68bb0df8f8e26c14.png",
+    "static/media/10.png": "/static/media/10.00f5e9a199d0aafafb9a.png",
+    "static/media/11.png": "/static/media/11.c2e732541829e7883055.png",
+    "static/media/5.png": "/static/media/5.d9cd405e02d0778a1584.png",
+    "static/media/3.png": "/static/media/3.59e7f0b56ca4319dc632.png",
+    "static/media/8.png": "/static/media/8.78a60a24dbb768f3432d.png",
     "static/media/game-bg.png": "/static/media/game-bg.adede8db481902b31148.png",
-    "static/media/home-bg-mobile.png": "/static/media/home-bg-mobile.2ae6161a7c78097ff576.png",
+    "static/media/disconnect.png": "/static/media/disconnect.923df724bbc049e25324.png",
     "static/media/PressStart2P-Regular.ttf": "/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
     "static/media/game-left.png": "/static/media/game-left.811e5a3e0e3fdfacb7fa.png",
     "static/media/Manrope-Regular.ttf": "/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
@@ -82,7 +95,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.964a58dc.css",
-    "static/js/main.bf22ee36.js"
+    "static/css/main.7565a7c1.css",
+    "static/js/main.9b7a6c3e.js"
   ]
 }
