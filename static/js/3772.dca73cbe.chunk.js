@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgotch_app=self.webpackChunkgotch_app||[]).push([[3772],{43772:(p,a,e)=>{e.r(a),e.d(a,{default:()=>c.n});var c=e(18367)}}]);
