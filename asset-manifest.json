@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae372fab.css",
-    "main.js": "/static/js/main.d50c3755.js",
+    "main.css": "/static/css/main.2cf51cb1.css",
+    "main.js": "/static/js/main.85f42b3a.js",
     "static/js/6825.4578bb66.chunk.js": "/static/js/6825.4578bb66.chunk.js",
     "static/js/7030.680e155f.chunk.js": "/static/js/7030.680e155f.chunk.js",
     "static/js/3772.649c9a2d.chunk.js": "/static/js/3772.649c9a2d.chunk.js",
@@ -60,6 +60,7 @@
     "static/js/2267.e5cc959f.chunk.js": "/static/js/2267.e5cc959f.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.5f4256820cec259e83bf.png",
     "static/media/home-bg-mobile.png": "/static/media/home-bg-mobile.3bcbca1e7bcfb0b464ae.png",
+    "static/media/game-bg.png": "/static/media/game-bg.91b0226e10caf29c419d.png",
     "static/media/1.png": "/static/media/1.b4c33900b5247468f107.png",
     "static/media/12.png": "/static/media/12.510faf885b8849443e0f.png",
     "static/media/11.png": "/static/media/11.3fed5236658ef4f6f00e.png",
@@ -72,16 +73,21 @@
     "static/media/9.png": "/static/media/9.ef9018affc0ae8b01517.png",
     "static/media/10.png": "/static/media/10.13c3d9e39aaeb164ff64.png",
     "static/media/7.png": "/static/media/7.bb408f1c6cdbb7930383.png",
-    "static/media/disconnect.png": "/static/media/disconnect.923df724bbc049e25324.png",
+    "static/media/light.png": "/static/media/light.c68a5d4c1f64389b23a3.png",
+    "static/media/poppins.regular.ttf": "/static/media/poppins.regular.1c701c9a6b587802e3d0.ttf",
     "static/media/PressStart2P-Regular.ttf": "/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
-    "static/media/game-left.png": "/static/media/game-left.811e5a3e0e3fdfacb7fa.png",
+    "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.334a6311738d66594e08.ttf",
+    "static/media/mint-logo.png": "/static/media/mint-logo.37db6b846beee7089b68.png",
     "static/media/Manrope-Regular.ttf": "/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
-    "static/media/help-right.png": "/static/media/help-right.aa6fbe421253e9fb3353.png",
-    "static/media/help-left.png": "/static/media/help-left.54a05bcec5fdc2111094.png",
-    "static/media/game-right.png": "/static/media/game-right.b99b2dbdf4dcede393a3.png",
+    "static/media/table.png": "/static/media/table.61e720bb66ba0606958d.png",
+    "static/media/disconnect.png": "/static/media/disconnect.333ce6dcd3efac8d27cc.png",
     "static/media/SAKURATA.ttf": "/static/media/SAKURATA.83829d804cf9d20d6551.ttf",
     "static/media/Mohave-Bold.ttf": "/static/media/Mohave-Bold.89717f61562cbfa9f9e0.ttf",
     "static/media/X-Logo.svg": "/static/media/X-Logo.7a2d05cb68ce19c7f26b0e8642053748.svg",
+    "static/media/game-left.png": "/static/media/game-left.c460c6974f2b89a279d0.png",
+    "static/media/help-right.png": "/static/media/help-right.4fe55a9db66986f15f61.png",
+    "static/media/game-right.png": "/static/media/game-right.e25cd390fa8a6d238042.png",
+    "static/media/help-left.png": "/static/media/help-left.0f11883669c07f8c4f63.png",
     "static/media/logo.png": "/static/media/logo.c726e77d2a0a9f0ecddb.png",
     "static/media/book.svg": "/static/media/book.687587b06717e750e00e703a0ff69e5f.svg",
     "static/media/discord_black.svg": "/static/media/discord_black.4f6542bfad2ca8c045a9fd2d5621fc6c.svg",
@@ -90,7 +96,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.ae372fab.css",
-    "static/js/main.d50c3755.js"
+    "static/css/main.2cf51cb1.css",
+    "static/js/main.85f42b3a.js"
   ]
 }
