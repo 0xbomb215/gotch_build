@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cf51cb1.css",
-    "main.js": "/static/js/main.a7421721.js",
+    "main.css": "/static/css/main.0b40cba4.css",
+    "main.js": "/static/js/main.5424e2b3.js",
     "static/js/6825.4578bb66.chunk.js": "/static/js/6825.4578bb66.chunk.js",
     "static/js/7030.680e155f.chunk.js": "/static/js/7030.680e155f.chunk.js",
     "static/js/3772.649c9a2d.chunk.js": "/static/js/3772.649c9a2d.chunk.js",
@@ -57,7 +57,7 @@
     "static/js/7157.6bb319cc.chunk.js": "/static/js/7157.6bb319cc.chunk.js",
     "static/js/7889.fd7f9b64.chunk.js": "/static/js/7889.fd7f9b64.chunk.js",
     "static/js/8206.929d101d.chunk.js": "/static/js/8206.929d101d.chunk.js",
-    "static/js/2267.c35182af.chunk.js": "/static/js/2267.c35182af.chunk.js",
+    "static/js/2267.e5cc959f.chunk.js": "/static/js/2267.e5cc959f.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.5f4256820cec259e83bf.png",
     "static/media/home-bg-mobile.png": "/static/media/home-bg-mobile.3bcbca1e7bcfb0b464ae.png",
     "static/media/game-bg.png": "/static/media/game-bg.91b0226e10caf29c419d.png",
@@ -96,7 +96,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.2cf51cb1.css",
-    "static/js/main.a7421721.js"
+    "static/css/main.0b40cba4.css",
+    "static/js/main.5424e2b3.js"
   ]
 }
