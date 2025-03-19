@@ -1,1 +1,0 @@
-(self.webpackChunkgotch_app=self.webpackChunkgotch_app||[]).push([[5455],{47790:()=>{},73776:()=>{}}]);
